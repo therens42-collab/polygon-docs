@@ -1,3 +1,4 @@
+
 # Polygon Knowledge Layer - PDF generator branch
 
 This is a protected branch with instructions for how to generate PDFs from the documentation.
