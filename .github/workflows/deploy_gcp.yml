@@ -1,4 +1,4 @@
-name: Docs Deployment GCP
+[![Docs Deployment GCP](https://github.com/therens42-collab/polygon-docs/actions/workflows/deploy_gcp.yml/badge.svg)](https://github.com/therens42-collab/polygon-docs/actions/workflows/deploy_gcp.yml)name: Docs Deployment GCP
 
 on:
   pull_request:
